@@ -4,6 +4,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+@viewport {
+    width: device-width;
+    zoom: 1.0;
+}
 /* applying style to <body> */
 body {
     color: #39a6b2;
